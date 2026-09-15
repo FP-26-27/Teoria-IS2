@@ -1,0 +1,4 @@
+Este es un fichero de texto usado como ejemplo de lectura.
+Esta es otra línea del fichero.
+Y esta una tercera.
+Aquí se acaba el fichero.
