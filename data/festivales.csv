@@ -1,0 +1,22 @@
+Nombre del festival,Fecha de comienzo del festival,Fecha de finalización del festival,Estado del festival,Precio de la entrada,Entradas vendidas,Artistas,Top
+Festival Internacional de Benicàssim,2024-07-18,2024-07-21,PLANIFICADO,150.90,20000,The Strokes_20:00_500-Arctic Monkeys_22:00_600-Lana Del Rey_23:30_550,sí
+Primavera Sound,2024-06-01,2024-06-05,CELEBRADO,175.50,25000,The Strokes_20:00_500-Radiohead_21:00_700-Kendrick Lamar_22:30_800-Tame Impala_00:00_750-Billie Eilish_01:30_850,sí
+Rock in Rio,2024-09-27,2024-09-30,PLANIFICADO,200.90,30000,Foo Fighters_20:30_900-Drake_22:00_1000-Muse_23:30_950-Justin Timberlake_01:00_800-David Guetta_2:00_700,sí
+Mad Cool Festival,2024-07-11,2024-07-13,PLANIFICADO,160.90,22000,Lana Del Rey_20:00_550-Imagine Dragons_21:00_700-The Killers_22:30_800-Billie Eilish_00:00_750-Travis Scott_01:30_900-Shawn Mendes_03:00_700,sí
+Sonar Festival,2024-06-13,2024-06-15,CELEBRADO,140.99,18000,Skrillex_20:00_600-Major Lazer_21:30_650-The Chemical Brothers_23:00_700-A$AP Rocky_00:30_500,no
+Arenal Sound,2024-08-01,2024-08-04,PLANIFICADO,120.50,15000,Dua Lipa_20:00_500-Bad Bunny_22:00_550-Martin Garrix_23:30_600-Rita Ora_01:00_450,no
+Viña Rock,2024-04-28,2024-05-01,CELEBRADO,90.99,17000,Residente_21:00_300-Natos y Waor_22:30_350-Kase.O_00:00_400-Zetazen_01:30_200-Skrillex_3:30_600,no
+Bilbao BBK Live,2024-07-04,2024-07-06,CELEBRADO,180.50,0,Florence + The Machine_20:00_600-The Weeknd_21:30_700-Phoenix_23:00_650-The Strokes_1:00_500,no
+Coachella,2024-04-12,2024-04-14,CELEBRADO,400.99,50000,The Strokes_20:00_500-Beyoncé_21:00_1000-Childish Gambino_22:30_800-Post Malone_00:00_900-Billie Eilish_01:30_850-Kanye West_03:00_950,sí
+Lollapalooza,2024-08-02,2024-08-04,PLANIFICADO,300.99,45000,Arctic Monkeys_20:00_600-The 1975_21:30_550-Lizzo_23:00_500-Blink182_00:30_700,sí
+Glastonbury,2024-06-26,2024-06-30,CELEBRADO,350.50,60000,The Strokes_20:00_500-Paul McCartney_21:00_1000-Taylor Swift_22:30_900-Ed Sheeran_00:00_800-Adele_01:30_950-Coldplay_03:00_850,sí
+Tomorrowland,2024-07-19,2024-07-21,PLANIFICADO,280.99,70000,David Guetta_20:00_700-Tiësto_21:30_750-Calvin Harris_23:00_800,sí
+Exit Festival,2024-07-04,2024-07-07,CANCELADO,100.50,20000,DJ Snake_20:00_400-Macklemore_21:30_450-Rudimental_23:00_500-Dua Lipa_00:30_600-The Chainsmokers_02:00_700,no
+Sziget Festival,2024-08-07,2024-08-13,CANCELADO,250.50,40000,Mumford & Sons_20:00_600-Eminem_21:30_1000-Shawn Mendes_23:00_700,sí
+Roskilde Festival,2024-06-29,2024-07-06,PLANIFICADO,200.90,35000,Gorillaz_20:00_700-Cardi B_21:30_800-Travis Scott_23:00_850-ASAP Rocky_00:30_600,sí
+Electric Daisy Carnival,2024-05-17,2024-05-19,CELEBRADO,350,55000,Marshmello_20:00_750-Zedd_21:30_700-Diplo_23:00_650-Kygo_00:30_800-Deadmau5_02:00_750,sí
+Hellfest,2024-06-21,2024-06-23,CELEBRADO,220.50,30000,Iron Maiden_20:00_800-Metallica_21:30_900-Slayer_23:00_850-Ghost_00:30_700,sí
+Download Festival,2024-06-14,2024-06-16,CANCELADO,200.00,25000,System of a Down_20:00_600-Avenged Sevenfold_21:30_550-Korn_23:00_500-Slipknot_00:30_700,sí
+Creamfields,2024-08-22,2024-08-25,PLANIFICADO,250.99,60000,Deadmau5_20:00_700-Eric Prydz_21:30_650-Swedish House Mafia_23:00_800-Tiesto_00:30_750-David Guetta_02:00_700,sí
+Burning Man,2024-08-25,2024-09-02,PLANIFICADO,450.00,70000,The Chainsmokers_20:00_900-Odesza_21:30_750-Rufus Du Sol_23:00_700,sí
+Ultra Music Festival,2024-03-29,2024-03-31,CANCELADO,300.89,50000,Armin van Buuren_20:00_700-Skrillex_21:30_750-Steve Aoki_23:00_800-Calvin Harris_00:30_850-Martin Garrix_02:00_900,sí

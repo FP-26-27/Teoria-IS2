@@ -1,0 +1,201 @@
+Fecha y Hora,Circuito,País,Asfalto,Tiempo de la Vuelta Rápida,Nombre Ganador,Marca Ganador,Nombre Segundo Clasificado,Marca Segundo Clasificado,Nombre Tercer Clasificado,Marca Tercero Clasificado
+2023-03-01 14:00,Le Mans,Francia,Seco,114.938,Francesco Bagnaia,Ducati,Johann Zarco,Honda,Fabio Quartararo,Yamaha
+2023-03-12 17:00,Motegi,Japón,Seco,101.52,Fabio Quartararo,Yamaha,Brad Binder,KTM,Francesco Bagnaia,Ducati
+2023-11-08 16:00,Valencia,España,Seco,103.892,Francesco Bagnaia,Ducati,Jorge Martin,Ducati,Aleix Espargaro,Aprilia
+2023-04-08 21:00,Sepang,Malasia,Seco,107.378,Andrea Iannone,Ducati,Joan Mir,Suzuki,Aron Canet,KALEX
+2027-10-18 18:00,Misano,Italia,Seco,97.048,Aron Canet,KALEX,Enea Bastianini,Ducati,Andrea Iannone,Ducati
+2023-04-21 21:00,Mugello,Italia,Seco,115.111,Aron Canet,KALEX,Jorge Martin,Ducati,Marc Marquez,Honda
+2025-02-11 14:00,Phillip Island,Australia,Seco,112.462,Jack Miller,KTM,Joan Mir,Suzuki,Andrea Iannone,Ducati
+2023-04-29 22:00,Circuit of the Americas,Estados Unidos,Seco,104.807,Fabio Quartararo,Yamaha,Andrea Iannone,Ducati,Marc Marquez,Honda
+2023-05-13 00:00,Aragón,España,Seco,92.7,Jack Miller,KTM,Enea Bastianini,Ducati,Andrea Iannone,Ducati
+2023-06-03 03:00,Le Mans,Francia,Mojado,111.627,Aron Canet,KALEX,Johann Zarco,Honda,Marc Marquez,Honda
+2023-04-01 19:00,Motegi,Japón,Seco,100.273,Marc Marquez,Honda,Jorge Martin,Ducati,Joan Mir,Suzuki
+2023-06-12 05:00,Sachsenring,Alemania,Seco,108.103,Fabio Quartararo,Yamaha,Joan Mir,Suzuki,Johann Zarco,Honda
+2023-06-29 05:00,Le Mans,Francia,Seco,104.993,Maverick Viñales,Aprilia,Joan Mir,Suzuki,Marc Marquez,Honda
+2023-07-09 07:00,Barcelona-Catalunya,España,Mojado,94.315,Jack Miller,KTM,Fabio Quartararo,Yamaha,Pedro Acosta,KTM
+2023-07-18 08:00,Sepang,Malasia,Mojado,91.469,Andrea Iannone,Ducati,Aleix Espargaro,Aprilia,Maverick Viñales,Aprilia
+2023-08-04 10:00,Circuit of the Americas,Estados Unidos,Seco,101.26,Pedro Acosta,KTM,Marc Marquez,Honda,Johann Zarco,Honda
+2023-08-13 12:00,Misano,Italia,Mojado,94.709,Aleix Espargaro,Aprilia,Jorge Martin,Ducati,Fabio Quartararo,Yamaha
+2023-08-22 12:00,Red Bull Ring,Austria,Seco,100.918,Marc Marquez,Honda,Andrea Iannone,Ducati,Aleix Espargaro,Aprilia
+2023-09-07 12:00,Valencia,España,Seco,106.346,Jack Miller,KTM,Joan Mir,Suzuki,Aron Canet,KALEX
+2023-09-21 13:00,Le Mans,Francia,Seco,119.422,Francesco Bagnaia,Ducati,Jorge Martin,Ducati,Maverick Viñales,Aprilia
+2023-09-30 13:00,Termas de Río Hondo,Argentina,Seco,113.878,Fabio Quartararo,Yamaha,Aron Canet,KALEX,Aleix Espargaro,Aprilia
+2023-10-13 14:00,Red Bull Ring,Austria,Seco,111.994,Enea Bastianini,Ducati,Aleix Espargaro,Aprilia,Joan Mir,Suzuki
+2023-10-26 14:00,Sachsenring,Alemania,Seco,94.969,Aron Canet,KALEX,Fabio Quartararo,Yamaha,Enea Bastianini,Ducati
+2023-11-28 19:00,Sachsenring,Alemania,Seco,111.511,Pedro Acosta,KTM,Marc Marquez,Honda,Jorge Martin,Ducati
+2023-12-12 20:00,Misano,Italia,Seco,98.088,Aron Canet,KALEX,Joan Mir,Suzuki,Marc Marquez,Honda
+2023-12-29 20:00,Silverstone,Reino Unido,Seco,110.487,Fabio Quartararo,Yamaha,Jack Miller,KTM,Johann Zarco,Honda
+2024-01-16 23:00,Losail International Circuit,Catar,Seco,92.51,Brad Binder,KTM,Andrea Iannone,Ducati,Johann Zarco,Honda
+2024-01-25 23:00,Phillip Island,Australia,Seco,109.285,Johann Zarco,Honda,Andrea Iannone,Ducati,Joan Mir,Suzuki
+2024-02-14 00:00,Jerez,España,Mojado,101.098,Jorge Martin,Ducati,Jack Miller,KTM,Aleix Espargaro,Aprilia
+2024-02-28 01:00,Termas de Río Hondo,Argentina,Seco,92.689,Johann Zarco,Honda,Fabio Quartararo,Yamaha,Jack Miller,KTM
+2024-03-17 03:00,Red Bull Ring,Austria,Seco,107.838,Johann Zarco,Honda,Brad Binder,KTM,Jack Miller,KTM
+2024-03-29 05:00,Valencia,España,Seco,112.971,Pedro Acosta,KTM,Brad Binder,KTM,Johann Zarco,Honda
+2024-04-16 06:00,Le Mans,Francia,Mojado,98.869,Johann Zarco,Honda,Enea Bastianini,Ducati,Jack Miller,KTM
+2024-04-29 09:00,Le Mans,Francia,Seco,92.364,Johann Zarco,Honda,Aleix Espargaro,Aprilia,Jack Miller,KTM
+2024-05-17 09:00,Phillip Island,Australia,Mojado,95.385,Francesco Bagnaia,Ducati,Johann Zarco,Honda,Enea Bastianini,Ducati
+2024-05-26 12:00,Sepang,Malasia,Seco,107.716,Brad Binder,KTM,Pedro Acosta,KTM,Aleix Espargaro,Aprilia
+2024-06-08 12:00,Sepang,Malasia,Seco,97.226,Jack Miller,KTM,Aleix Espargaro,Aprilia,Brad Binder,KTM
+2024-06-17 14:00,Termas de Río Hondo,Argentina,Seco,113.556,Joan Mir,Suzuki,Brad Binder,KTM,Jack Miller,KTM
+2024-07-04 17:00,Termas de Río Hondo,Argentina,Seco,99.649,Andrea Iannone,Ducati,Aron Canet,KALEX,Johann Zarco,Honda
+2024-07-25 18:00,Silverstone,Reino Unido,Seco,116.424,Jorge Martin,Ducati,Brad Binder,KTM,Fabio Quartararo,Yamaha
+2024-08-01 19:00,Phillip Island,Australia,Seco,91.419,Johann Zarco,Honda,Joan Mir,Suzuki,Enea Bastianini,Ducati
+2024-08-16 19:00,Mugello,Italia,Seco,111.905,Enea Bastianini,Ducati,Brad Binder,KTM,Aleix Espargaro,Aprilia
+2024-08-24 22:00,Sachsenring,Alemania,Seco,98.441,Johann Zarco,Honda,Jack Miller,KTM,Aron Canet,KALEX
+2024-09-14 22:00,Mugello,Italia,Seco,96.87,Joan Mir,Suzuki,Marc Marquez,Honda,Brad Binder,KTM
+2024-09-23 22:00,Jerez,España,Seco,105.391,Jorge Martin,Ducati,Fabio Quartararo,Yamaha,Maverick Viñales,Aprilia
+2024-10-01 23:00,Misano,Italia,Seco,117.565,Enea Bastianini,Ducati,Marc Marquez,Honda,Aron Canet,KALEX
+2024-10-20 02:00,Motegi,Japón,Seco,116.289,Marc Marquez,Honda,Johann Zarco,Honda,Andrea Iannone,Ducati
+2024-11-05 02:00,Motegi,Japón,Seco,107.773,Joan Mir,Suzuki,Aleix Espargaro,Aprilia,Marc Marquez,Honda
+2024-11-16 02:00,Sepang,Malasia,Seco,92.755,Brad Binder,KTM,Maverick Viñales,Aprilia,Johann Zarco,Honda
+2024-11-27 05:00,Assen,Países Bajos,Seco,106.044,Fabio Quartararo,Yamaha,Andrea Iannone,Ducati,Aron Canet,KALEX
+2024-12-04 07:00,Mugello,Italia,Seco,93.376,Brad Binder,Yamaha,Pedro Acosta,KTM,Jack Miller,KTM
+2024-12-24 07:00,Barcelona-Catalunya,España,Seco,113.038,Aleix Espargaro,Aprilia,Johann Zarco,Honda,Pedro Acosta,KTM
+2025-01-14 10:00,Losail International Circuit,Catar,Seco,119.523,Brad Binder,KTM,Pedro Acosta,KTM,Joan Mir,Suzuki
+2025-02-02 13:00,Sachsenring,Alemania,Seco,95.653,Enea Bastianini,Ducati,Francesco Bagnaia,Ducati,Brad Binder,KTM
+2025-02-22 17:00,Barcelona-Catalunya,España,Seco,111.225,Enea Bastianini,Ducati,Maverick Viñales,Aprilia,Joan Mir,Suzuki
+2025-03-02 17:00,Aragón,España,Seco,103.642,Maverick Viñales,Aprilia,Aleix Espargaro,Aprilia,Fabio Quartararo,Yamaha
+2025-03-10 19:00,Losail International Circuit,Catar,Mojado,115.846,Francesco Bagnaia,Ducati,Aleix Espargaro,Aprilia,Andrea Iannone,Ducati
+2025-03-29 19:00,Red Bull Ring,Austria,Seco,95.723,Jorge Martin,Ducati,Jack Miller,KTM,Aron Canet,KALEX
+2025-04-15 22:00,Circuit of the Americas,Estados Unidos,Seco,114.503,Aron Canet,KALEX,Aleix Espargaro,Aprilia,Joan Mir,Suzuki
+2025-04-29 22:00,Le Mans,Francia,Seco,112.229,Aleix Espargaro,Aprilia,Maverick Viñales,Aprilia,Joan Mir,Suzuki
+2025-05-14 01:00,Losail International Circuit,Catar,Seco,97.544,Aleix Espargaro,Aprilia,Fabio Quartararo,Yamaha,Marc Marquez,Honda
+2025-05-31 04:00,Jerez,España,Seco,107.761,Marc Marquez,Honda,Jorge Martin,Ducati,Joan Mir,Suzuki
+2025-06-20 06:00,Valencia,España,Seco,104.714,Fabio Quartararo,Yamaha,Jack Miller,KTM,Jorge Martin,Ducati
+2025-07-04 09:00,Mugello,Italia,Seco,102.339,Marc Marquez,Honda,Aleix Espargaro,Aprilia,Jorge Martin,Ducati
+2025-07-13 09:00,Red Bull Ring,Austria,Seco,110.212,Aron Canet,KALEX,Enea Bastianini,Ducati,Fabio Quartararo,Yamaha
+2025-07-22 09:00,Circuit of the Americas,Estados Unidos,Seco,112.491,Brad Binder,KTM,Pedro Acosta,KTM,Joan Mir,Suzuki
+2025-08-04 09:00,Motegi,Japón,Seco,117.283,Jorge Martin,Ducati,Jack Miller,KTM,Johann Zarco,Honda
+2025-08-12 09:00,Losail International Circuit,Catar,Seco,99.142,Andrea Iannone,Ducati,Joan Mir,Suzuki,Francesco Bagnaia,Ducati
+2025-08-20 10:00,Misano,Italia,Seco,102.42,Jorge Martin,Ducati,Jack Miller,KTM,Brad Binder,KTM
+2025-09-08 10:00,Termas de Río Hondo,Argentina,Seco,103.032,Aron Canet,KALEX,Brad Binder,KTM,Fabio Quartararo,Yamaha
+2025-09-28 13:00,Termas de Río Hondo,Argentina,Seco,102.62,Brad Binder,KTM,Pedro Acosta,KTM,Johann Zarco,Honda
+2025-10-05 16:00,Mugello,Italia,Seco,107.899,Enea Bastianini,Ducati,Aron Canet,KALEX,Johann Zarco,Honda
+2025-10-23 18:00,Aragón,España,Seco,99.013,Aleix Espargaro,Aprilia,Pedro Acosta,KTM,Fabio Quartararo,Yamaha
+2025-11-05 18:00,Motegi,Japón,Seco,97.533,Francesco Bagnaia,Ducati,Jorge Martin,Ducati,Joan Mir,Suzuki
+2025-11-24 21:00,Circuit of the Americas,Estados Unidos,Seco,101.926,Fabio Quartararo,Yamaha,Andrea Iannone,Ducati,Joan Mir,Suzuki
+2025-12-10 21:00,Silverstone,Reino Unido,Mojado,94.563,Fabio Quartararo,Yamaha,Brad Binder,KTM,Johann Zarco,Honda
+2025-12-17 23:00,Red Bull Ring,Austria,Seco,98.146,Jorge Martin,Ducati,Fabio Quartararo,Yamaha,Aleix Espargaro,Aprilia
+2025-12-24 23:00,Losail International Circuit,Catar,Seco,92.935,Aron Canet,KALEX,Pedro Acosta,KTM,Joan Mir,Suzuki
+2026-01-12 23:00,Losail International Circuit,Catar,Mojado,102.023,Jack Miller,KTM,Francesco Bagnaia,Ducati,Maverick Viñales,Aprilia
+2026-01-25 23:00,Jerez,España,Mojado,112.061,Enea Bastianini,Ducati,Fabio Quartararo,Yamaha,Aleix Espargaro,Aprilia
+2026-02-07 23:00,Assen,Países Bajos,Seco,118.223,Marc Marquez,Honda,Pedro Acosta,KTM,Maverick Viñales,Aprilia
+2026-02-17 23:00,Assen,Países Bajos,Mojado,110.387,Fabio Quartararo,Yamaha,Brad Binder,KTM,Jorge Martin,Ducati
+2026-03-07 00:00,Phillip Island,Australia,Seco,95.975,Andrea Iannone,Ducati,Jack Miller,KTM,Joan Mir,Suzuki
+2026-03-17 01:00,Circuit of the Americas,Estados Unidos,Mojado,101.067,Pedro Acosta,KTM,Brad Binder,KTM,Johann Zarco,Honda
+2026-04-02 01:00,Termas de Río Hondo,Argentina,Seco,96.704,Joan Mir,Suzuki,Jack Miller,KTM,Pedro Acosta,KTM
+2026-04-21 04:00,Le Mans,Francia,Seco,90.234,Jorge Martin,Ducati,Fabio Quartararo,Yamaha,Maverick Viñales,Aprilia
+2026-04-30 06:00,Sepang,Malasia,Mojado,104.434,Fabio Quartararo,Yamaha,Jack Miller,KTM,Enea Bastianini,Ducati
+2026-05-12 08:00,Assen,Países Bajos,Seco,118.162,Francesco Bagnaia,Ducati,Brad Binder,KTM,Pedro Acosta,KTM
+2026-05-30 10:00,Motegi,Japón,Seco,101.798,Enea Bastianini,Ducati,Maverick Viñales,Aprilia,Jorge Martin,Ducati
+2026-06-11 13:00,Assen,Países Bajos,Mojado,94.247,Marc Marquez,Honda,Pedro Acosta,KTM,Brad Binder,KTM
+2026-06-29 16:00,Le Mans,Francia,Seco,90.046,Pedro Acosta,KTM,Joan Mir,Suzuki,Enea Bastianini,Ducati
+2026-07-06 18:00,Aragón,España,Seco,96.311,Fabio Quartararo,Yamaha,Jack Miller,KTM,Aleix Espargaro,Aprilia
+2026-07-15 18:00,Sachsenring,Alemania,Mojado,99.916,Brad Binder,KTM,Aleix Espargaro,Aprilia,Maverick Viñales,Aprilia
+2026-07-25 19:00,Le Mans,Francia,Seco,97.709,Enea Bastianini,Ducati,Aron Canet,KALEX,Brad Binder,KTM
+2026-08-14 21:00,Silverstone,Reino Unido,Seco,113.898,Maverick Viñales,Aprilia,Jorge Martin,Ducati,Johann Zarco,Honda
+2026-08-29 00:00,Sachsenring,Alemania,Seco,111.632,Pedro Acosta,KTM,Francesco Bagnaia,Ducati,Marc Marquez,Honda
+2026-09-06 01:00,Mugello,Italia,Seco,109.248,Aleix Espargaro,Aprilia,Pedro Acosta,KTM,Marc Marquez,Honda
+2026-09-16 02:00,Aragón,España,Seco,96.901,Joan Mir,Suzuki,Pedro Acosta,KTM,Enea Bastianini,Ducati
+2026-09-25 04:00,Aragón,España,Seco,93.53,Jorge Martin,Ducati,Brad Binder,KTM,Pedro Acosta,KTM
+2026-10-08 06:00,Circuit of the Americas,Estados Unidos,Seco,91.366,Pedro Acosta,KTM,Fabio Quartararo,Yamaha,Jack Miller,KTM
+2026-10-18 06:00,Jerez,España,Seco,116.407,Pedro Acosta,KTM,Francesco Bagnaia,Ducati,Johann Zarco,Honda
+2026-11-01 07:00,Motegi,Japón,Seco,114.464,Pedro Acosta,KTM,Joan Mir,Suzuki,Jorge Martin,Ducati
+2026-11-12 08:00,Silverstone,Reino Unido,Seco,114.551,Maverick Viñales,Aprilia,Aleix Espargaro,Aprilia,Andrea Iannone,Ducati
+2026-11-21 10:00,Jerez,España,Seco,107.099,Fabio Quartararo,Yamaha,Brad Binder,KTM,Marc Marquez,Honda
+2026-12-01 11:00,Motegi,Japón,Seco,117.868,Joan Mir,Suzuki,Jorge Martin,Ducati,Pedro Acosta,KTM
+2026-12-10 14:00,Motegi,Japón,Seco,108.09,Pedro Acosta,KTM,Brad Binder,KTM,Aron Canet,KALEX
+2026-12-21 17:00,Motegi,Japón,Seco,103.12,Marc Marquez,Honda,Jack Miller,KTM,Andrea Iannone,Ducati
+2027-01-05 20:00,Sachsenring,Alemania,Seco,110.533,Aleix Espargaro,Aprilia,Enea Bastianini,Ducati,Pedro Acosta,KTM
+2027-01-17 21:00,Phillip Island,Australia,Seco,92.181,Maverick Viñales,Aprilia,Pedro Acosta,KTM,Aron Canet,KALEX
+2027-02-04 22:00,Le Mans,Francia,Seco,98.086,Brad Binder,KTM,Jorge Martin,Ducati,Johann Zarco,Honda
+2027-02-21 01:00,Red Bull Ring,Austria,Seco,99.873,Johann Zarco,Honda,Pedro Acosta,KTM,Enea Bastianini,Ducati
+2027-03-12 04:00,Termas de Río Hondo,Argentina,Mojado,96.22,Johann Zarco,Honda,Joan Mir,Suzuki,Francesco Bagnaia,Ducati
+2027-03-29 06:00,Circuit of the Americas,Estados Unidos,Seco,94.773,Brad Binder,KTM,Francesco Bagnaia,Ducati,Marc Marquez,Honda
+2027-04-07 07:00,Losail International Circuit,Catar,Seco,94.219,Joan Mir,Suzuki,Jorge Martin,Ducati,Brad Binder,KTM
+2027-04-28 08:00,Aragón,España,Mojado,91.94,Pedro Acosta,KTM,Andrea Iannone,Ducati,Marc Marquez,Honda
+2027-05-12 08:00,Motegi,Japón,Seco,90.466,Johann Zarco,Honda,Joan Mir,Suzuki,Pedro Acosta,KTM
+2027-05-22 08:00,Motegi,Japón,Seco,97.03,Andrea Iannone,Ducati,Fabio Quartararo,Yamaha,Aron Canet,KALEX
+2027-06-01 08:00,Termas de Río Hondo,Argentina,Seco,104.962,Maverick Viñales,Aprilia,Fabio Quartararo,Yamaha,Joan Mir,Suzuki
+2027-06-18 10:00,Mugello,Italia,Seco,114.373,Marc Marquez,Honda,Andrea Iannone,Ducati,Francesco Bagnaia,Ducati
+2027-06-25 10:00,Valencia,España,Seco,104.936,Andrea Iannone,Ducati,Fabio Quartararo,Yamaha,Aron Canet,KALEX
+2027-07-04 10:00,Termas de Río Hondo,Argentina,Mojado,107.571,Johann Zarco,Honda,Joan Mir,Suzuki,Andrea Iannone,Ducati
+2027-07-25 11:00,Motegi,Japón,Seco,105.972,Andrea Iannone,Ducati,Francesco Bagnaia,Ducati,Joan Mir,Suzuki
+2027-08-06 14:00,Losail International Circuit,Catar,Mojado,105.074,Enea Bastianini,Ducati,Brad Binder,KTM,Johann Zarco,Honda
+2027-08-24 17:00,Jerez,España,Seco,90.097,Brad Binder,KTM,Aron Canet,KALEX,Pedro Acosta,KTM
+2027-09-13 18:00,Phillip Island,Australia,Seco,117.0,Pedro Acosta,KTM,Francesco Bagnaia,Ducati,Enea Bastianini,Ducati
+2027-10-03 18:00,Misano,Italia,Seco,118.604,Aron Canet,KALEX,Aleix Espargaro,Aprilia,Marc Marquez,Honda
+2027-10-31 20:00,Assen,Países Bajos,Seco,114.231,Francesco Bagnaia,Ducati,Pedro Acosta,KTM,Marc Marquez,Honda
+2027-11-12 21:00,Silverstone,Reino Unido,Mojado,119.01,Marc Marquez,Honda,Enea Bastianini,Ducati,Pedro Acosta,KTM
+2027-11-23 22:00,Sachsenring,Alemania,Seco,92.47,Pedro Acosta,KTM,Jorge Martin,Ducati,Aleix Espargaro,Aprilia
+2027-12-08 01:00,Losail International Circuit,Catar,Seco,102.69,Pedro Acosta,KTM,Maverick Viñales,Aprilia,Aleix Espargaro,Aprilia
+2027-12-21 03:00,Valencia,España,Mojado,107.422,Aleix Espargaro,Aprilia,Pedro Acosta,KTM,Marc Marquez,Honda
+2027-12-29 04:00,Red Bull Ring,Austria,Seco,95.636,Francesco Bagnaia,Ducati,Brad Binder,KTM,Jack Miller,KTM
+2028-01-16 06:00,Circuit of the Americas,Estados Unidos,Mojado,90.501,Marc Marquez,Honda,Fabio Quartararo,Yamaha,Pedro Acosta,KTM
+2028-01-26 08:00,Sepang,Malasia,Mojado,118.729,Francesco Bagnaia,Ducati,Aleix Espargaro,Aprilia,Marc Marquez,Honda
+2028-02-04 08:00,Sepang,Malasia,Seco,102.81,Andrea Iannone,Ducati,Aron Canet,KALEX,Pedro Acosta,KTM
+2028-02-23 09:00,Losail International Circuit,Catar,Seco,116.657,Joan Mir,Suzuki,Fabio Quartararo,Yamaha,Francesco Bagnaia,Ducati
+2028-03-13 11:00,Le Mans,Francia,Seco,101.498,Marc Marquez,Honda,Maverick Viñales,Aprilia,Joan Mir,Suzuki
+2028-03-30 14:00,Circuit of the Americas,Estados Unidos,Seco,118.802,Johann Zarco,Honda,Enea Bastianini,Ducati,Brad Binder,KTM
+2028-04-09 17:00,Red Bull Ring,Austria,Seco,91.981,Brad Binder,KTM,Pedro Acosta,KTM,Enea Bastianini,Ducati
+2028-04-28 20:00,Losail International Circuit,Catar,Seco,113.145,Johann Zarco,Honda,Aron Canet,KALEX,Joan Mir,Suzuki
+2028-05-08 21:00,Phillip Island,Australia,Seco,99.22,Joan Mir,Suzuki,Marc Marquez,Honda,Andrea Iannone,Ducati
+2028-05-17 23:00,Aragón,España,Seco,112.377,Marc Marquez,Honda,Johann Zarco,Honda,Aron Canet,KALEX
+2028-06-04 02:00,Jerez,España,Seco,102.218,Enea Bastianini,Ducati,Maverick Viñales,Aprilia,Jorge Martin,Ducati
+2028-06-16 02:00,Sachsenring,Alemania,Seco,110.207,Jorge Martin,Ducati,Maverick Viñales,Aprilia,Johann Zarco,Honda
+2028-06-26 02:00,Losail International Circuit,Catar,Seco,110.582,Brad Binder,KTM,Maverick Viñales,Aprilia,Fabio Quartararo,Yamaha
+2028-07-12 05:00,Misano,Italia,Seco,95.673,Aron Canet,KALEX,Jorge Martin,Ducati,Johann Zarco,Honda
+2028-08-02 06:00,Sepang,Malasia,Mojado,100.002,Enea Bastianini,Ducati,Francesco Bagnaia,Ducati,Marc Marquez,Honda
+2028-08-09 09:00,Le Mans,Francia,Seco,112.918,Andrea Iannone,Ducati,Fabio Quartararo,Yamaha,Aleix Espargaro,Aprilia
+2028-08-20 11:00,Assen,Países Bajos,Seco,107.593,Joan Mir,Suzuki,Francesco Bagnaia,Ducati,Aron Canet,KALEX
+2028-09-06 14:00,Red Bull Ring,Austria,Mojado,105.844,Andrea Iannone,Ducati,Fabio Quartararo,Yamaha,Pedro Acosta,KTM
+2028-09-14 15:00,Losail International Circuit,Catar,Seco,112.635,Marc Marquez,Honda,Pedro Acosta,KTM,Jorge Martin,Ducati
+2028-09-23 17:00,Mugello,Italia,Mojado,91.802,Brad Binder,KTM,Joan Mir,Suzuki,Fabio Quartararo,Yamaha
+2028-10-14 20:00,Silverstone,Reino Unido,Seco,107.108,Fabio Quartararo,Yamaha,Aleix Espargaro,Aprilia,Marc Marquez,Honda
+2028-10-28 20:00,Red Bull Ring,Austria,Seco,99.41,Andrea Iannone,Ducati,Joan Mir,Suzuki,Brad Binder,KTM
+2028-11-05 21:00,Barcelona-Catalunya,España,Seco,101.948,Andrea Iannone,Ducati,Marc Marquez,Honda,Maverick Viñales,Aprilia
+2028-11-21 21:00,Mugello,Italia,Mojado,113.414,Fabio Quartararo,Yamaha,Pedro Acosta,KTM,Johann Zarco,Honda
+2028-12-09 23:00,Barcelona-Catalunya,España,Seco,100.028,Jorge Martin,Ducati,Johann Zarco,Honda,Joan Mir,Suzuki
+2028-12-19 23:00,Sepang,Malasia,Mojado,106.559,Francesco Bagnaia,Ducati,Jorge Martin,Ducati,Joan Mir,Suzuki
+2029-01-08 01:00,Aragón,España,Seco,105.122,Johann Zarco,Honda,Marc Marquez,Honda,Aleix Espargaro,Aprilia
+2029-01-25 04:00,Assen,Países Bajos,Seco,102.381,Johann Zarco,Honda,Fabio Quartararo,Yamaha,Jorge Martin,Ducati
+2029-02-10 07:00,Mugello,Italia,Seco,90.077,Fabio Quartararo,Yamaha,Joan Mir,Suzuki,Andrea Iannone,Ducati
+2029-02-17 07:00,Red Bull Ring,Austria,Seco,101.844,Pedro Acosta,KTM,Aleix Espargaro,Aprilia,Francesco Bagnaia,Ducati
+2029-03-09 08:00,Jerez,España,Seco,106.59,Aleix Espargaro,Aprilia,Jack Miller,KTM,Enea Bastianini,Ducati
+2029-03-25 10:00,Barcelona-Catalunya,España,Seco,106.866,Brad Binder,KTM,Johann Zarco,Honda,Jorge Martin,Ducati
+2029-04-03 11:00,Sachsenring,Alemania,Seco,90.136,Pedro Acosta,KTM,Enea Bastianini,Ducati,Aleix Espargaro,Aprilia
+2029-04-22 13:00,Valencia,España,Mojado,114.516,Pedro Acosta,KTM,Enea Bastianini,Ducati,Maverick Viñales,Aprilia
+2029-05-03 14:00,Le Mans,Francia,Seco,119.029,Francesco Bagnaia,Ducati,Fabio Quartararo,Yamaha,Marc Marquez,Honda
+2029-05-22 14:00,Jerez,España,Seco,105.117,Aron Canet,KALEX,Brad Binder,KTM,Enea Bastianini,Ducati
+2029-06-06 14:00,Misano,Italia,Seco,101.635,Aron Canet,KALEX,Andrea Iannone,Ducati,Pedro Acosta,KTM
+2029-06-24 14:00,Mugello,Italia,Seco,117.501,Johann Zarco,Honda,Andrea Iannone,Ducati,Jack Miller,KTM
+2029-07-12 17:00,Sepang,Malasia,Seco,118.226,Maverick Viñales,Aprilia,Andrea Iannone,Ducati,Joan Mir,Suzuki
+2029-07-30 19:00,Red Bull Ring,Austria,Seco,117.288,Marc Marquez,Honda,Jorge Martin,Ducati,Johann Zarco,Honda
+2029-08-15 19:00,Barcelona-Catalunya,España,Seco,119.964,Maverick Viñales,Aprilia,Aleix Espargaro,Aprilia,Brad Binder,KTM
+2029-08-22 19:00,Losail International Circuit,Catar,Seco,114.965,Jorge Martin,Ducati,Johann Zarco,Honda,Joan Mir,Suzuki
+2029-09-06 19:00,Circuit of the Americas,Estados Unidos,Seco,100.901,Andrea Iannone,Ducati,Enea Bastianini,Ducati,Marc Marquez,Honda
+2029-09-14 20:00,Sepang,Malasia,Seco,101.947,Maverick Viñales,Aprilia,Francesco Bagnaia,Ducati,Marc Marquez,Honda
+2029-10-04 20:00,Misano,Italia,Mojado,94.086,Jorge Martin,Ducati,Fabio Quartararo,Yamaha,Pedro Acosta,KTM
+2029-10-24 22:00,Circuit of the Americas,Estados Unidos,Seco,106.297,Marc Marquez,Honda,Enea Bastianini,Ducati,Aron Canet,KALEX
+2029-11-04 22:00,Red Bull Ring,Austria,Seco,116.329,Fabio Quartararo,Yamaha,Johann Zarco,Honda,Pedro Acosta,KTM
+2029-11-18 01:00,Assen,Países Bajos,Seco,102.861,Aron Canet,KALEX,Pedro Acosta,KTM,Maverick Viñales,Aprilia
+2029-11-29 04:00,Circuit of the Americas,Estados Unidos,Seco,114.588,Francesco Bagnaia,Ducati,Joan Mir,Suzuki,Jack Miller,KTM
+2029-12-17 06:00,Sachsenring,Alemania,Seco,112.971,Pedro Acosta,KTM,Johann Zarco,Honda,Aron Canet,KALEX
+2030-01-07 08:00,Sepang,Malasia,Seco,117.303,Pedro Acosta,KTM,Maverick Viñales,Aprilia,Fabio Quartararo,Yamaha
+2030-01-17 09:00,Sachsenring,Alemania,Seco,110.692,Andrea Iannone,Ducati,Maverick Viñales,Aprilia,Marc Marquez,Honda
+2030-02-06 11:00,Sachsenring,Alemania,Seco,108.953,Aleix Espargaro,Aprilia,Joan Mir,Suzuki,Jack Miller,KTM
+2030-02-20 14:00,Misano,Italia,Seco,109.11,Pedro Acosta,KTM,Joan Mir,Suzuki,Fabio Quartararo,Yamaha
+2030-03-11 14:00,Red Bull Ring,Austria,Mojado,113.67,Jorge Martin,Ducati,Joan Mir,Suzuki,Pedro Acosta,KTM
+2030-03-18 15:00,Sachsenring,Alemania,Seco,95.386,Maverick Viñales,Aprilia,Brad Binder,KTM,Pedro Acosta,KTM
+2030-03-25 17:00,Sepang,Malasia,Seco,102.23,Maverick Viñales,Aprilia,Marc Marquez,Honda,Francesco Bagnaia,Ducati
+2030-04-14 18:00,Le Mans,Francia,Seco,101.668,Enea Bastianini,Ducati,Andrea Iannone,Ducati,Jack Miller,KTM
+2030-05-04 21:00,Le Mans,Francia,Mojado,100.932,Brad Binder,KTM,Aleix Espargaro,Aprilia,Joan Mir,Suzuki
+2030-05-21 23:00,Sachsenring,Alemania,Seco,118.122,Francesco Bagnaia,Ducati,Andrea Iannone,Ducati,Maverick Viñales,Aprilia
+2030-06-08 23:00,Phillip Island,Australia,Seco,99.418,Maverick Viñales,Aprilia,Marc Marquez,Honda,Brad Binder,KTM
+2030-06-16 01:00,Le Mans,Francia,Mojado,100.355,Johann Zarco,Honda,Aron Canet,KALEX,Aleix Espargaro,Aprilia
+2030-06-29 04:00,Misano,Italia,Mojado,92.469,Jack Miller,KTM,Joan Mir,Suzuki,Aron Canet,KALEX
+2030-07-06 05:00,Circuit of the Americas,Estados Unidos,Seco,94.174,Johann Zarco,Honda,Maverick Viñales,Aprilia,Enea Bastianini,Ducati
+2030-07-14 07:00,Red Bull Ring,Austria,Seco,99.172,Andrea Iannone,Ducati,Francesco Bagnaia,Ducati,Jack Miller,KTM
+2030-07-30 07:00,Barcelona-Catalunya,España,Seco,111.679,Pedro Acosta,KTM,Aleix Espargaro,Aprilia,Jorge Martin,Ducati
+2030-08-10 09:00,Valencia,España,Seco,102.827,Jorge Martin,Ducati,Marc Marquez,Honda,Pedro Acosta,KTM
+2030-08-31 12:00,Phillip Island,Australia,Seco,119.885,Johann Zarco,Honda,Fabio Quartararo,Yamaha,Maverick Viñales,Aprilia

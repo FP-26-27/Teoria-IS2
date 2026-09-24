@@ -1,0 +1,51 @@
+Comandante;Sistema;Control Imperial;Inicio Misión;Fin Misión;Tipo de Misión;Unidades Desplegadas;Coste Mensual (créditos);Recursos Especiales
+Grand Moff Tarkin;Ilum;Sí;2022-12-06;2023-01-30;Asedio;154;5435.9;Cazas TIE#Droide Sonda#Stormtroopers
+Captain Needa;Mandalore;No;2023-06-26;2023-07-05;Control Planetario;476;6384.92;Crucero Interdictor#Destructor Estelar#AT-AT
+General Veers;Endor;No;2022-07-15;;Represión Rebelde;376;3230.58;Stormtroopers#Droide Sonda#Destructor Estelar
+Captain Needa;Dagobah;No;2024-06-20;;Vigilancia;198;4874.63;Destructor Estelar#Crucero Interdictor
+Agent Kallus;Mustafar;Sí;2022-11-25;;Asedio;247;7494.85;Droide Sonda#Destructor Estelar
+Captain Needa;Scarif;Sí;2022-06-12;;Exploración;452;8960.88;AT-AT#Stormtroopers
+Captain Needa;Lothal;Sí;2023-11-01;;Exploración;245;8294.88;Cazas TIE#Stormtroopers
+Moff Jerjerrod;Muunilinst;No;2023-02-19;2023-06-14;Represión Rebelde;325;7636.29;Stormtroopers#AT-AT
+Agent Kallus;Muunilinst;Sí;2023-05-24;2023-08-25;Control Planetario;387;1047.69;AT-AT#Crucero Interdictor
+Captain Needa;Jedha;No;2024-05-29;2024-10-09;Exploración;155;3858.76;Droide Sonda#Destructor Estelar
+Admiral Thrawn;Bespin;No;2024-10-17;2024-12-19;Control Planetario;94;928.04;Droide Sonda#Stormtroopers#Destructor Estelar
+Captain Needa;Hoth;Sí;2024-02-05;2024-05-25;Construcción;135;7092.33;Droide Sonda
+General Veers;Dagobah;Sí;2024-01-06;2024-02-20;Vigilancia;158;6799.75;Crucero Interdictor#Cazas TIE
+Captain Needa;Naboo;Sí;2022-12-30;2023-01-04;Control Planetario;200;6097.04;Stormtroopers#Cazas TIE
+General Veers;Lothal;No;2023-01-23;2023-05-25;Asedio;403;7908.41;Stormtroopers
+Captain Needa;Naboo;Sí;2022-12-05;2023-03-21;Asedio;102;6610.51;Crucero Interdictor#Destructor Estelar
+Grand Moff Tarkin;Scarif;No;2022-03-22;2022-07-26;Represión Rebelde;379;1477.95;Cazas TIE
+Director Krennic;Endor;Sí;2022-04-18;2022-10-06;Vigilancia;453;3936.29;Stormtroopers#Cazas TIE#Destructor Estelar
+General Veers;Tatooine;No;2023-10-29;;Exploración;77;8007.85;Crucero Interdictor
+Moff Jerjerrod;Dagobah;No;2022-07-04;2022-11-11;Represión Rebelde;279;1395.92;Cazas TIE#Crucero Interdictor
+Agent Kallus;Mustafar;No;2023-10-19;2023-11-26;Exploración;322;9371.87;Cazas TIE#Stormtroopers#Destructor Estelar
+Grand Moff Tarkin;Ilum;No;2022-01-28;2022-06-30;Exploración;489;490.19;Droide Sonda#AT-AT
+Grand Moff Tarkin;Mandalore;Sí;2023-10-04;2024-03-31;Asedio;361;5764.32;Stormtroopers#Destructor Estelar
+Moff Jerjerrod;Eriadu;No;2024-06-27;;Exploración;358;3985.28;Droide Sonda
+Captain Needa;Mandalore;No;2024-12-19;2024-12-20;Vigilancia;466;6861.49;AT-AT#Droide Sonda
+General Veers;Corellia;Sí;2024-06-25;2024-09-14;Control Planetario;333;6805.56;AT-AT#Crucero Interdictor#Cazas TIE
+Admiral Thrawn;Dantooine;Sí;2023-03-10;;Control Planetario;305;2364.41;Cazas TIE
+Admiral Piett;Kessel;Sí;2022-09-08;2023-02-23;Control Planetario;281;2728.29;AT-AT
+Darth Vader;Dantooine;Sí;2023-10-09;2024-02-06;Vigilancia;170;265.47;Cazas TIE
+Darth Vader;Dantooine;No;2023-06-30;;Exploración;248;4800.5;Stormtroopers#Crucero Interdictor
+Grand Moff Tarkin;Ilum;Sí;2023-09-03;;Asedio;271;3262.82;Crucero Interdictor#AT-AT
+Darth Vader;Tatooine;No;2024-08-26;;Asedio;470;4751.08;AT-AT
+Director Krennic;Kessel;Sí;2024-08-02;2024-11-27;Vigilancia;329;6237.99;Crucero Interdictor#Cazas TIE#Droide Sonda
+Agent Kallus;Bespin;No;2023-04-02;2023-09-26;Exploración;411;7458.69;Crucero Interdictor
+Commander Iden Versio;Corellia;No;2024-08-21;;Represión Rebelde;428;4855.28;Droide Sonda#AT-AT
+Director Krennic;Endor;No;2024-11-22;2024-12-16;Asedio;477;5073.05;AT-AT
+Grand Moff Tarkin;Muunilinst;No;2022-12-18;2023-01-13;Control Planetario;289;728.94;Stormtroopers#Crucero Interdictor#Cazas TIE
+Grand Moff Tarkin;Endor;No;2022-11-24;;Asedio;31;3116.01;Cazas TIE#Crucero Interdictor#AT-AT
+Agent Kallus;Bespin;Sí;2023-06-22;2023-11-23;Exploración;184;8964.38;Cazas TIE#AT-AT#Crucero Interdictor
+Agent Kallus;Mandalore;No;2024-11-21;2024-12-24;Vigilancia;319;7177.64;Stormtroopers#AT-AT#Cazas TIE
+Darth Vader;Jedha;No;2022-08-15;2022-10-03;Represión Rebelde;8;2002.17;Stormtroopers
+Moff Jerjerrod;Muunilinst;Sí;2024-02-27;;Asedio;276;2355.83;Droide Sonda#Crucero Interdictor
+Director Krennic;Jedha;No;2022-01-25;2022-07-04;Vigilancia;310;990.83;Destructor Estelar
+Admiral Piett;Kessel;Sí;2022-04-01;2022-09-21;Construcción;343;4546.11;Stormtroopers#Droide Sonda
+Moff Jerjerrod;Rodia;Sí;2023-03-13;2023-03-24;Construcción;61;3070.05;Crucero Interdictor#Stormtroopers#Droide Sonda
+Commander Iden Versio;Naboo;Sí;2022-12-31;2023-06-01;Exploración;8;2243.53;Destructor Estelar#Crucero Interdictor
+General Veers;Naboo;No;2022-12-07;;Asedio;225;1942.29;Droide Sonda
+Commander Iden Versio;Mandalore;No;2023-04-18;2023-09-06;Exploración;228;296.51;AT-AT#Cazas TIE
+Agent Kallus;Endor;No;2022-08-14;2023-01-04;Exploración;212;318.69;Destructor Estelar#Stormtroopers
+Captain Needa;Kamino;Sí;2024-06-16;2024-07-23;Construcción;306;4299.02;AT-AT#Droide Sonda#Cazas TIE
