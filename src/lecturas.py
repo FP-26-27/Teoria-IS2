@@ -1,10 +1,15 @@
 from csv import reader
 from collections import namedtuple
+from datetime import datetime
 
 Consumo = namedtuple("Consumo", "fecha, variacion")
 
 def parsea_incremento(incremento_str:str)->float:
     return float(incremento_str)
+
+def parse_fecha(fecha_str:str)->datetime.date:
+    fecha_hora = datetime.strptime(fecha_str, "%d/%m/%Y")
+    return fecha_hora.date()
 
 def lectura_mensual(ruta_fichero:str)->list[tuple[str, float]]:
     result = []
@@ -12,7 +17,8 @@ def lectura_mensual(ruta_fichero:str)->list[tuple[str, float]]:
         lector = reader(f)
         next(lector)
         for fecha_str, incremento_str  in lector:
-            tupla = Consumo(fecha_str, parsea_incremento(incremento_str))
+            tupla = Consumo(parse_fecha(fecha_str), 
+                            parsea_incremento(incremento_str))
             result.append(tupla)
     return result
 
@@ -23,6 +29,4 @@ def media_incrementos(lista: list[Consumo[str, float]])->float:
         result += dato.variacion/dimension
     return result
 
-listado_datos = lectura_mensual("data/monthly_csv.csv")
-print(listado_datos[0])
-print(media_incrementos(listado_datos))
+
