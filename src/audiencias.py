@@ -20,11 +20,15 @@ def shares_gh(listado_audiencias:list[Audiencia])->list[float]:
         result.append(audiencia.share)
     return result
 
-def ediciones_gh(listado_audiencias:list[Audiencia])->list[int]:
+def ediciones_gh(listado_audiencias:list[Audiencia])->set[int]:
     result = []
     for audiencia in listado_audiencias:
         result.append(audiencia.edicion)
-    return list(set(result))
+    return set(result)
+
+def calcula_numero_ediciones(listado_audiencias:list[Audiencia])->int:
+    result = ediciones_gh(listado_audiencias)
+    return len(result)
 
 def audiencias_mayoritarias(listado_audiencias:list[Audiencia])->list[Audiencia]:
     result = []
@@ -39,4 +43,28 @@ def audiencias_en_intervalo_cerrado(listado_audiencias:list[Audiencia],
     for audiencia in listado_audiencias:
         if maximo>=audiencia.share>=minimo:
             result.append(audiencia)
+    return result
+
+def filtra_por_ediciones(audiencias:list[Audiencia], 
+                         ediciones:list[int])->list[Audiencia]:
+    result = []
+    for x in audiencias:
+        if x.edicion in ediciones:
+            result.append(x)
+    return result
+
+def extrae_shares(audiencias:list[Audiencia]
+                               )->list[float]:
+    result = []
+    for x in audiencias:
+        y = x.share
+        result.append(y)
+    return result
+
+def filtra_por_ediciones_pares(audiencias:list[Audiencia]
+                               )->list[Audiencia]:
+    result = []
+    for x in audiencias:
+        if x.edicion % 2==0:
+            result.append(x)
     return result
