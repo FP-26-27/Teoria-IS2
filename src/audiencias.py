@@ -15,9 +15,11 @@ def lectura_gh(nombre_fichero:str)->list[Audiencia]:
 
 def shares_gh(listado_audiencias:list[Audiencia])->list[float]:
     'Listado de shares de todo GH'
+    '[x]->[f(x)]'
     result = []
-    for audiencia in listado_audiencias:
-        result.append(audiencia.share)
+    for x in listado_audiencias:
+        f_x = x.share
+        result.append(f_x)
     return result
 
 def ediciones_gh(listado_audiencias:list[Audiencia])->set[int]:
@@ -32,9 +34,9 @@ def calcula_numero_ediciones(listado_audiencias:list[Audiencia])->int:
 
 def audiencias_mayoritarias(listado_audiencias:list[Audiencia])->list[Audiencia]:
     result = []
-    for audiencia in listado_audiencias:
-        if audiencia.share>=0.5:
-            result.append(audiencia)
+    for x in listado_audiencias:
+        if x.share>=0.5:
+            result.append(x)
     return result
 
 def audiencias_en_intervalo_cerrado(listado_audiencias:list[Audiencia], 
@@ -68,3 +70,26 @@ def filtra_por_ediciones_pares(audiencias:list[Audiencia]
         if x.edicion % 2==0:
             result.append(x)
     return result
+
+def media_share(audiencias: list[Audiencia])->float:
+    result=0
+    for x in audiencias:
+        result += x.share/len(audiencias)
+
+    return result
+
+def media_share_2(audiencias: list[Audiencia])->float:
+    result = 0.0
+    if(len(audiencias)>0):
+        shares = shares_gh(audiencias)
+        result = sum(shares)/len(audiencias)
+    return result
+
+def contar_audiencias_extremas(audiencias:list[Audiencia], 
+                               bajo:float, alto:float)->int:
+    '''result = []
+    for x in audiencias:
+        if x.share<bajo or x.share>alto:
+            result.append(x)'''
+    result = [x for x in audiencias if x.share<bajo or x.share>alto]
+    return len(result)

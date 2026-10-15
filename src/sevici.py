@@ -29,3 +29,30 @@ def lee_datos(path:str, codificacion:str)->list[Estacion]:
                                 int(free_bikes),ubicacion)
             result.append(estacion)
     return result
+
+
+def estaciones_bicis_libres(estaciones:list[Estacion], 
+                            k:int=5)->list[tuple[int, str]]:
+    ''' Estaciones que tienen bicicletas libres
+    
+    ENTRADA: 
+      :param estaciones: lista de estaciones disponibles 
+      :type estaciones: [Estacion(str, int, int, int, Coordenadas(float, float))]
+      :param k: número mínimo requerido de bicicletas
+      :type k: int
+    SALIDA: 
+      :return: lista de estaciones seleccionadas
+      :rtype: [(int, str)] 
+    
+    Toma como entrada una lista de estaciones y un número k.
+    Crea una lista formada por tuplas (número de bicicletas libres, nombre)
+    de las estaciones que tienen al menos k bicicletas libres. La lista
+    estará ordenada de mayor a menor por el número de bicicletas libres.
+    '''
+    result = []
+    for x in estaciones:
+        if x.bicis_disponibles >= k:
+            result.append(x)
+
+    return [(x.bicis_disponibles, x.nombre) for x in result]
+
