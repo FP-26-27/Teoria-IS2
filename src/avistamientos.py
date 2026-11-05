@@ -82,3 +82,99 @@ def avistamientos_fechas(avistamientos:list[Avistamiento], fecha_inicial:datetim
     filtrado = filter(lambda a: fecha_final>=a.fechahora.date()>=fecha_inicial , 
                       avistamientos)
     return sorted(filtrado, key = lambda a: a.fechahora)
+
+def agrupa_avistamientos_por_horas(
+        avistamientos: list[Avistamiento])->dict[int, list[Avistamiento]]:
+    '''
+    Devuelve un diccionario cuyas claves son las horas del día en las que
+    se han observado avistamientos, y cuyos valores son las listas de
+    avistamientos observados en cada hora.
+    :param avistamientos: lista de tuplas con la información de
+    los avistamientos
+    :return: diccionario con los avistamientos agrupados por hora
+    '''
+    result = dict()
+    for a in avistamientos:
+        clave = a.fechahora.hour
+        if clave not in result:
+            result[clave] = []
+            result[clave].append(a)
+        else:
+            result[clave].append(a)
+    return result
+
+
+def transforma_a_frecuencia(avistamientos_por_horas: dict[int, list[Avistamiento]])->dict[int, int]:
+    '''
+    Devuelve un diccionario con las mismas claves que el recibido, y cuyos
+    valores son el número de avistamientos de cada lista.
+    :param avistamientos_por_horas: diccionario con los avistamientos
+    agrupados por hora
+    :return: diccionario con el número de avistamientos de cada hora
+    '''
+    result = dict()
+    for hora, lista in avistamientos_por_horas.items():
+        result[hora] = len(lista)
+    return result
+
+
+def hora_mas_avistamientos(avistamientos: list[Avistamiento])->int:
+    avistamientos_por_horas:dict[int, list[Avistamiento]] = agrupa_avistamientos_por_horas(
+        avistamientos)
+    result = transforma_a_frecuencia(avistamientos_por_horas)
+    tupla_maxima = max(result.items(), key = lambda par: par[1])
+    return tupla_maxima[0]
+
+
+def comentario_mas_largo(avistamientos:list[Avistamiento],
+                          anyo:int, palabra:str)->Avistamiento:
+    ''' 
+    Devuelve el avistamiento cuyo comentario es el más largo, de entre
+    los avistamientos observados en el año dado por el parámetro "anyo"
+    y cuyo comentario incluya la palabra recibida en el parámetro "palabra".
+    
+    :param avistamientos: lista de tuplas con la información de los avistamientos 
+    :param anyo: año para el que se hará la búsqueda 
+    :param palabra: palabra que debe incluir el comentario del avistamiento buscado 
+    :return: avistamiento con el comentario más largo
+    '''    
+    result = filter(lambda a: a.fechahora.year == anyo 
+                    and palabra in a.comments, avistamientos)
+    return max(result, key=lambda a:len(a.comments))
+
+
+def coordenadas_mas_avistamientos(
+        avistamientos:list[Avistamiento])->tuple[int, int]:
+    #Agregar info
+    agregador = dict()
+    for a in avistamientos:
+        clave = (int(a.latitude), int(a.longitude))
+        if clave in agregador:
+            agregador[clave].append(a)
+        else:
+            agregador[clave] = []
+            agregador[clave].append(a)
+
+    transformado = dict()
+    for clave, lista_valores in agregador.items():
+        transformado[clave] = len(lista_valores)
+    result:tuple[tuple[int, int], int] = max(transformado.items(), key=lambda i:i[1])
+    return result[0]
+
+
+def avistamiento_mas_reciente_por_coordenadas(
+        avistamientos:list[Avistamiento])->dict[tuple[int, int], Avistamiento]:
+    #Agregar info
+    agregador = dict()
+    for a in avistamientos:
+        clave = (int(a.latitude), int(a.longitude))
+        if clave in agregador:
+            agregador[clave].append(a)
+        else:
+            agregador[clave] = []
+            agregador[clave].append(a)
+
+    transformado = dict()
+    for clave, lista_valores in agregador.items():
+        transformado[clave] = max(lista_valores, key=lambda a: a.fechahora)
+    return transformado
