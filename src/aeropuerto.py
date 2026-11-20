@@ -1,6 +1,7 @@
 from collections import namedtuple
 from csv import reader
 from datetime import datetime, date, time, timedelta
+from statistics import mean
 
 Vuelo=namedtuple('Vuelo', 'destino, precio, numero_plazas, numero_pasajeros, codigo, fecha, duracion')
 
@@ -70,3 +71,159 @@ def duracion_vuelos_fecha(vuelos:list[Vuelo], fecha:date)->timedelta:
         if v.fecha == fecha:
             result += v.duracion
     return result
+
+def total_pasajeros_por_destino(vuelos: list[Vuelo])->dict[str, int]:
+    '''`total_pasajeros_por_destino`: Dada una lista de tuplas 
+    de tipo `Vuelo` devuelve un diccionario que relaciona cada destino
+      con el número de pasajeros a ese destino.'''
+    result = dict()
+    for v in vuelos:
+        clave = v.destino
+        if clave in result:
+            result[clave] += v.numero_pasajeros
+        else:
+            result[clave] = v.numero_pasajeros
+    return result    
+
+def total_pasajeros_por_destino(vuelos: list[Vuelo])->dict[str, int]:
+    '''`total_pasajeros_por_destino`: Dada una lista de tuplas 
+    de tipo `Vuelo` devuelve un diccionario que relaciona cada destino
+      con el número de pasajeros a ese destino.'''
+    result = dict()
+    for v in vuelos:
+        clave = v.destino
+        if clave in result:
+            result[clave] += v.numero_pasajeros
+        else:
+            result[clave] = v.numero_pasajeros
+    return result    
+
+
+def total_pasajeros_por_destino_2(vuelos: list[Vuelo])->dict[str, int]:
+    '''`total_pasajeros_por_destino`: Dada una lista de tuplas 
+    de tipo `Vuelo` devuelve un diccionario que relaciona cada destino
+      con el número de pasajeros a ese destino.'''
+    agregador = dict()
+    for v in vuelos:
+        clave = v.destino
+        if clave in agregador:
+            agregador[clave].append(v)
+        else:
+            agregador[clave] = [v]
+    transformado = dict()
+    for destino, lista_vuelos in agregador.items():
+        transformado[destino] = sum([v.numero_pasajeros for v in lista_vuelos])
+    return transformado    
+
+def codigo_vuelo_mas_barato_por_destino_2(vuelos:list[Vuelo])->dict[str, str]:
+    '''Ejercicio 29. codigo_vuelo_mas_barato_por_destino: 
+    Dada una lista de tuplas de tipo Vuelo devuelve un diccionario 
+    que relaciona cada destino con el código del vuelo 
+    más barato a ese destino.'''
+    agregador = dict()
+    for v in vuelos:
+        clave = v.destino #editar
+        if clave in agregador:
+            agregador[clave].append(v)
+        else:
+            agregador[clave] = [v]
+    transformado = dict()
+    for destino, lista_vuelos in agregador.items():
+        minimo = min(lista_vuelos, key = lambda v: v.precio)
+        transformado[destino] =  minimo.codigo#editar
+    return transformado  #editar
+
+def codigo_vuelo_mas_barato_por_destino(vuelos:list[Vuelo])->dict[str, str]:
+    '''Ejercicio 29. codigo_vuelo_mas_barato_por_destino: 
+    Dada una lista de tuplas de tipo Vuelo devuelve un diccionario 
+    que relaciona cada destino con el código del vuelo 
+    más barato a ese destino.'''
+    result = dict()
+    for v in vuelos:
+        clave = v.destino
+        if clave in result:
+            if result[clave].precio > v.precio:
+                result[clave] = v
+        else:
+            result[clave] = v
+    return {clave: vuelo.precio for clave, vuelo in result.items()}    
+
+
+def total_pasajeros_por_destino(vuelos: list[Vuelo])->dict[str, int]:
+    '''`total_pasajeros_por_destino`: Dada una lista de tuplas 
+    de tipo `Vuelo` devuelve un diccionario que relaciona cada destino
+      con el número de pasajeros a ese destino.'''
+    result = dict()
+    for v in vuelos:
+        clave = v.destino
+        if clave in result:
+            result[clave] += v.numero_pasajeros
+        else:
+            result[clave] = v.numero_pasajeros
+    return result    
+
+def precio_medio_por_destino(vuelos: list[Vuelo])->dict[str, float]:
+    '''Ejercicio 27. precio_medio_por_destino: Dada una lista de tuplas 
+    de tipo Vuelo devuelve un diccionario tal que relaciona cada destino 
+    con el precio medio de los vuelos a ese destino. Resultados esperados'''
+    agregador = dict()
+    for v in vuelos:
+        clave = v.destino #editar
+        if clave in agregador:
+            agregador[clave].append(v)
+        else:
+            agregador[clave] = [v]
+    transformado = dict()
+    for destino, lista_vuelos in agregador.items():
+        transformado[destino] = calcula_media(lista_vuelos)#editar
+    return transformado  #editar
+
+def calcula_media(lista:list[Vuelo])->float:
+    result = 0
+    for v in lista:
+        result += v.precio/len(lista)
+    return result
+
+def fecha_mayor_incremento_pasajeros(vuelos: list[Vuelo])->date:
+    '''Ejercicio 39. fecha_mayor_incremento_pasajeros: Dada una lista de tuplas de tipo Vuelo
+      devuelve cuál es la fecha con mayor incremento del número de pasajeros 
+      respecto del día anterior. 
+      El concepto del día anterior se refiere al anterior que hubo vuelos.'''
+    agregador = dict()
+    for v in vuelos:
+        clave = v.fecha #editar
+        if clave in agregador:
+            agregador[clave].append(v)
+        else:
+            agregador[clave] = [v]
+    transformado = dict()
+    for clave, lista_vuelos in agregador.items():
+        transformado[clave] = sum([v.numero_pasajeros for v in lista_vuelos])#editar
+    return mayor_incremento(transformado)  #editar
+
+def mayor_incremento(transformado: dict[date, int])->date:
+    lista = sorted(transformado.items())
+    cremallera = zip(lista, lista[1:]) #[((dia1, valor_1), (dia2, valor_2))...]
+    result = None
+    mayor = None
+    for (_, pasajeros_anterior), (dia, pasajeros) in cremallera:
+        incremento = pasajeros - pasajeros_anterior
+        if mayor is None or incremento > mayor:
+            mayor = incremento
+            result = dia
+    return result
+
+
+def codigos_por_destino(vuelos: list[Vuelo])->dict[str, list[str]]:
+    '''Ejercicio 25'''
+    agregador = dict()
+    for v in vuelos:
+        clave = v.destino #editar
+        if clave in agregador:
+            agregador[clave].append(v)
+        else:
+            agregador[clave] = [v]
+    transformado = dict()
+    for destino, lista_vuelos in agregador.items():
+        transformado[destino] = [v.codigo for v in lista_vuelos]#editar
+    return transformado  #editar

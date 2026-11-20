@@ -1,0 +1,70 @@
+id_actuacion,recinto,artista,promotora,fecha_actuacion,asistentes_totales,asistentes_por_zona,teloneros,tasa_ocupacion
+1,Gran Canaria Arena,Hielo y Ceniza,Riff Producciones,29/03/2026,9614,"{'pista': 5402, 'grada': 3867, 'vip': 345}","['Delta Sur', 'Eco Joven']",87.4
+2,Gran Canaria Arena,Hielo y Ceniza,Riff Producciones,10/04/2026,8976,"{'pista': 4566, 'grada': 3708, 'vip': 702}",['Cristal Roto'],81.6
+3,Bizkaia Arena,Hielo y Ceniza,Riff Producciones,01/07/2026,17279,"{'pista': 8794, 'grada': 7420, 'vip': 1065}","['Las Hiedras', 'Ana Brisa', 'Medusa']",92.9
+4,Bizkaia Arena,Hielo y Ceniza,Riff Producciones,27/08/2026,18340,"{'pista': 8424, 'grada': 8797, 'vip': 1119}",['Las Hiedras'],98.6
+5,Coliseum A Coruña,Hielo y Ceniza,Riff Producciones,21/10/2026,8668,"{'pista': 4272, 'grada': 4133, 'vip': 263}","['Rayo Verde', 'Plan B', 'Delta Sur']",78.8
+6,WiZink Center,Hielo y Ceniza,Riff Producciones,25/01/2027,15045,"{'pista': 5923, 'grada': 8114, 'vip': 1008}","['Ana Brisa', 'Mirlo', 'Pulso']",88.5
+7,Gran Canaria Arena,Kora Vance,Vórtice Eventos,23/12/2025,8635,"{'pista': 4575, 'grada': 3531, 'vip': 529}",['Cristal Roto'],78.5
+8,WiZink Center,Kora Vance,Vórtice Eventos,28/12/2025,15266,"{'pista': 6420, 'grada': 7886, 'vip': 960}",['Ana Brisa'],89.8
+9,Bizkaia Arena,Kora Vance,Vórtice Eventos,23/04/2026,16442,"{'pista': 7400, 'grada': 8161, 'vip': 881}","['Kiko Lumbre', 'Las Hiedras', 'Rayo Verde']",88.4
+10,Coliseum A Coruña,Kora Vance,Vórtice Eventos,20/06/2026,9680,"{'pista': 3373, 'grada': 5834, 'vip': 473}","['Las Hiedras', 'Plan B']",88.0
+11,Gran Canaria Arena,Kora Vance,Vórtice Eventos,20/06/2026,9130,"{'pista': 5068, 'grada': 3615, 'vip': 447}","['Medusa', 'Cristal Roto']",83.0
+12,Coliseum A Coruña,Kora Vance,Vórtice Eventos,27/06/2026,9955,"{'pista': 4852, 'grada': 4587, 'vip': 516}","['Medusa', 'Cristal Roto']",90.5
+13,Palau Sant Jordi,Kora Vance,Vórtice Eventos,04/07/2026,15588,"{'pista': 7885, 'grada': 6589, 'vip': 1114}","['Kiko Lumbre', 'Los Satélites', 'Plan B']",86.6
+14,Bizkaia Arena,Alba Ríos,Riff Producciones,04/09/2025,14638,"{'pista': 6326, 'grada': 7397, 'vip': 915}","['Kiko Lumbre', 'Las Hiedras']",78.7
+15,WiZink Center,Alba Ríos,Riff Producciones,02/12/2025,14382,"{'pista': 6847, 'grada': 6864, 'vip': 671}",['Las Hiedras'],84.6
+16,WiZink Center,Alba Ríos,Riff Producciones,30/01/2026,16133,"{'pista': 6288, 'grada': 8724, 'vip': 1121}","['Plan B', 'Rayo Verde']",94.9
+17,Auditorio Rocío Jurado,Alba Ríos,Riff Producciones,17/10/2026,3758,"{'pista': 1849, 'grada': 1706, 'vip': 203}","['Pulso', 'Cristal Roto', 'Delta Sur']",83.5
+18,WiZink Center,Luna Carmesí,Sonora Live,04/10/2025,15895,"{'pista': 6790, 'grada': 8540, 'vip': 565}","['Rayo Verde', 'Ana Brisa', 'Medusa']",93.5
+19,WiZink Center,Luna Carmesí,Sonora Live,11/01/2026,15963,"{'pista': 7809, 'grada': 7364, 'vip': 790}","['Ana Brisa', 'Rayo Verde']",93.9
+20,Roig Arena,Luna Carmesí,Sonora Live,14/03/2026,14368,"{'pista': 5618, 'grada': 8236, 'vip': 514}","['Delta Sur', 'Eco Joven']",92.1
+21,Palau Sant Jordi,Luna Carmesí,Sonora Live,21/03/2026,15408,"{'pista': 5757, 'grada': 9121, 'vip': 530}","['Ana Brisa', 'Los Satélites', 'Plan B']",85.6
+22,WiZink Center,Luna Carmesí,Sonora Live,30/04/2026,15827,"{'pista': 8749, 'grada': 6089, 'vip': 989}",['Ana Brisa'],93.1
+23,Roig Arena,Luna Carmesí,Sonora Live,20/08/2026,13104,"{'pista': 6494, 'grada': 6071, 'vip': 539}","['Medusa', 'Delta Sur']",84.0
+24,Bizkaia Arena,Luna Carmesí,Sonora Live,07/11/2026,15438,"{'pista': 5120, 'grada': 9382, 'vip': 936}","['Kiko Lumbre', 'Los Satélites', 'Plan B']",83.0
+25,WiZink Center,Luna Carmesí,Sonora Live,13/02/2027,16014,"{'pista': 5816, 'grada': 9238, 'vip': 960}","['Ana Brisa', 'Plan B']",94.2
+26,Palau Sant Jordi,Sara Olmedo,Vórtice Eventos,13/11/2025,17658,"{'pista': 9341, 'grada': 7778, 'vip': 539}","['Medusa', 'Kiko Lumbre']",98.1
+27,WiZink Center,Sara Olmedo,Vórtice Eventos,16/01/2026,14484,"{'pista': 6238, 'grada': 7256, 'vip': 990}","['Kiko Lumbre', 'Eco Joven']",85.2
+28,Gran Canaria Arena,Sara Olmedo,Vórtice Eventos,20/03/2026,9614,"{'pista': 3261, 'grada': 5644, 'vip': 709}","['Medusa', 'Pulso']",87.4
+29,Gran Canaria Arena,Sara Olmedo,Vórtice Eventos,10/04/2026,9328,"{'pista': 4271, 'grada': 4623, 'vip': 434}","['Kiko Lumbre', 'Ana Brisa', 'Cristal Roto']",84.8
+30,Auditorio Rocío Jurado,Sara Olmedo,Vórtice Eventos,25/04/2026,3812,"{'pista': 1767, 'grada': 1819, 'vip': 226}","['Pulso', 'Eco Joven']",84.7
+31,Bizkaia Arena,Los Faros del Sur,Riff Producciones,09/07/2026,16275,"{'pista': 9157, 'grada': 6137, 'vip': 981}",['Eco Joven'],87.5
+32,Coliseum A Coruña,Los Faros del Sur,Riff Producciones,15/07/2026,8745,"{'pista': 4109, 'grada': 3992, 'vip': 644}","['Ana Brisa', 'Plan B']",79.5
+33,Roig Arena,Los Faros del Sur,Riff Producciones,16/10/2026,14134,"{'pista': 7286, 'grada': 5971, 'vip': 877}",['Eco Joven'],90.6
+34,Coliseum A Coruña,Los Faros del Sur,Riff Producciones,22/11/2026,9845,"{'pista': 3544, 'grada': 5732, 'vip': 569}","['Las Hiedras', 'Pulso']",89.5
+35,Palau Sant Jordi,Los Faros del Sur,Riff Producciones,11/01/2027,16002,"{'pista': 7085, 'grada': 8117, 'vip': 800}","['Eco Joven', 'Delta Sur']",88.9
+36,Palau Sant Jordi,Los Faros del Sur,Riff Producciones,21/04/2027,14454,"{'pista': 6571, 'grada': 7026, 'vip': 857}",['Los Satélites'],80.3
+37,Roig Arena,La Orquesta Invisible,Fuego Live,03/06/2026,14929,"{'pista': 7624, 'grada': 6329, 'vip': 976}",['Eco Joven'],95.7
+38,Palau Sant Jordi,La Orquesta Invisible,Fuego Live,01/07/2026,15084,"{'pista': 5986, 'grada': 8102, 'vip': 996}","['Kiko Lumbre', 'Los Satélites', 'Cristal Roto']",83.8
+39,Roig Arena,La Orquesta Invisible,Fuego Live,07/08/2026,13681,"{'pista': 4878, 'grada': 8115, 'vip': 688}",['Plan B'],87.7
+40,Roig Arena,La Orquesta Invisible,Fuego Live,20/10/2026,15241,"{'pista': 7061, 'grada': 7513, 'vip': 667}",['Las Hiedras'],97.7
+41,WiZink Center,Tormenta Eléctrica,Sonora Live,23/03/2026,15861,"{'pista': 8454, 'grada': 6809, 'vip': 598}",['Rayo Verde'],93.3
+42,Roig Arena,Tormenta Eléctrica,Sonora Live,20/04/2026,14071,"{'pista': 7428, 'grada': 6119, 'vip': 524}",['Pulso'],90.2
+43,Palau Sant Jordi,Tormenta Eléctrica,Sonora Live,13/08/2026,16902,"{'pista': 7379, 'grada': 8428, 'vip': 1095}","['Medusa', 'Las Hiedras']",93.9
+44,Gran Canaria Arena,Los Zorros Azules,Atlántico Shows,27/03/2026,10384,"{'pista': 4215, 'grada': 5583, 'vip': 586}","['Plan B', 'Cristal Roto']",94.4
+45,Roig Arena,Los Zorros Azules,Atlántico Shows,31/05/2026,13010,"{'pista': 7138, 'grada': 4852, 'vip': 1020}","['Las Hiedras', 'Pulso']",83.4
+46,Palau Sant Jordi,Vértigo Club,Nexo Música,24/04/2026,17766,"{'pista': 6785, 'grada': 10059, 'vip': 922}","['Plan B', 'Medusa', 'Eco Joven']",98.7
+47,Bizkaia Arena,Vértigo Club,Nexo Música,19/08/2026,16926,"{'pista': 6370, 'grada': 9623, 'vip': 933}","['Las Hiedras', 'Mirlo', 'Eco Joven']",91.0
+48,Coliseum A Coruña,Vértigo Club,Nexo Música,03/09/2026,10791,"{'pista': 4932, 'grada': 4997, 'vip': 862}","['Eco Joven', 'Plan B']",98.1
+49,Coliseum A Coruña,Vértigo Club,Nexo Música,05/10/2026,8910,"{'pista': 4890, 'grada': 3715, 'vip': 305}","['Cristal Roto', 'Eco Joven', 'Ana Brisa']",81.0
+50,WiZink Center,Neón Salvaje,Fuego Live,15/11/2025,15198,"{'pista': 7279, 'grada': 7382, 'vip': 537}",['Ana Brisa'],89.4
+51,Bizkaia Arena,Neón Salvaje,Fuego Live,31/12/2025,15457,"{'pista': 8500, 'grada': 5872, 'vip': 1085}",['Kiko Lumbre'],83.1
+52,Roig Arena,Neón Salvaje,Fuego Live,16/02/2026,12480,"{'pista': 5819, 'grada': 6145, 'vip': 516}","['Pulso', 'Delta Sur', 'Cristal Roto']",80.0
+53,Gran Canaria Arena,Neón Salvaje,Fuego Live,05/06/2026,10087,"{'pista': 5710, 'grada': 4057, 'vip': 320}","['Pulso', 'Las Hiedras']",91.7
+54,WiZink Center,Dúo Altamira,Nexo Música,12/11/2025,15045,"{'pista': 6792, 'grada': 7279, 'vip': 974}","['Plan B', 'Mirlo', 'Eco Joven']",88.5
+55,Coliseum A Coruña,Dúo Altamira,Nexo Música,04/02/2026,9317,"{'pista': 3392, 'grada': 5345, 'vip': 580}","['Rayo Verde', 'Pulso']",84.7
+56,Coliseum A Coruña,Dúo Altamira,Nexo Música,11/02/2026,10076,"{'pista': 5496, 'grada': 4004, 'vip': 576}","['Los Satélites', 'Cristal Roto']",91.6
+57,Auditorio Rocío Jurado,Dúo Altamira,Nexo Música,09/05/2026,4054,"{'pista': 1983, 'grada': 1802, 'vip': 269}",['Mirlo'],90.1
+58,Gran Canaria Arena,Marea Alta,Sonora Live,23/10/2025,9372,"{'pista': 4782, 'grada': 4236, 'vip': 354}","['Cristal Roto', 'Pulso']",85.2
+59,Gran Canaria Arena,Marea Alta,Sonora Live,10/11/2025,10505,"{'pista': 4815, 'grada': 5052, 'vip': 638}","['Cristal Roto', 'Rayo Verde', 'Delta Sur']",95.5
+60,WiZink Center,Marea Alta,Sonora Live,30/01/2026,16269,"{'pista': 8162, 'grada': 7155, 'vip': 952}","['Los Satélites', 'Rayo Verde']",95.7
+61,Roig Arena,Marea Alta,Sonora Live,24/03/2026,14929,"{'pista': 5609, 'grada': 8806, 'vip': 514}","['Eco Joven', 'Pulso']",95.7
+62,Bizkaia Arena,Nébula Norte,Atlántico Shows,06/12/2025,16331,"{'pista': 6652, 'grada': 8982, 'vip': 697}","['Los Satélites', 'Rayo Verde', 'Ana Brisa']",87.8
+63,Gran Canaria Arena,Nébula Norte,Atlántico Shows,06/01/2026,8833,"{'pista': 3625, 'grada': 4733, 'vip': 475}",['Cristal Roto'],80.3
+64,WiZink Center,Nébula Norte,Atlántico Shows,09/02/2026,16405,"{'pista': 6040, 'grada': 9184, 'vip': 1181}","['Rayo Verde', 'Las Hiedras']",96.5
+65,Bizkaia Arena,Nébula Norte,Atlántico Shows,20/02/2026,17242,"{'pista': 6357, 'grada': 10004, 'vip': 881}",['Las Hiedras'],92.7
+66,Roig Arena,Cometa 84,Atlántico Shows,17/06/2026,13712,"{'pista': 7079, 'grada': 5866, 'vip': 767}","['Ana Brisa', 'Plan B']",87.9
+67,Palau Sant Jordi,Cometa 84,Atlántico Shows,13/07/2026,14472,"{'pista': 6808, 'grada': 6709, 'vip': 955}","['Los Satélites', 'Eco Joven']",80.4
+68,Gran Canaria Arena,Cometa 84,Atlántico Shows,29/10/2026,9042,"{'pista': 4589, 'grada': 3960, 'vip': 493}","['Ana Brisa', 'Las Hiedras', 'Los Satélites']",82.2
+69,Roig Arena,Cometa 84,Atlántico Shows,17/01/2027,14960,"{'pista': 5786, 'grada': 8091, 'vip': 1083}","['Mirlo', 'Medusa', 'Eco Joven']",95.9
