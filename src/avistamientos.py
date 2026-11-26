@@ -145,21 +145,25 @@ def comentario_mas_largo(avistamientos:list[Avistamiento],
 
 def coordenadas_mas_avistamientos(
         avistamientos:list[Avistamiento])->tuple[int, int]:
-    #Agregar info
-    agregador = dict()
+    #Agregar info agregador = dict()
+    agregador = defaultdict(list)
     for a in avistamientos:
         clave = (int(a.latitude), int(a.longitude))
-        if clave in agregador:
-            agregador[clave].append(a)
-        else:
-            agregador[clave] = []
-            agregador[clave].append(a)
+        agregador[clave].append(a)
 
     transformado = dict()
     for clave, lista_valores in agregador.items():
         transformado[clave] = len(lista_valores)
     result:tuple[tuple[int, int], int] = max(transformado.items(), key=lambda i:i[1])
     return result[0]
+
+def coordenadas_mas_avistamientos_2(
+        avistamientos:list[Avistamiento])->tuple[int, int]:
+    coordenadas = [(int(a.latitude), int(a.longitude)) 
+                   for a in avistamientos]
+    contador = Counter(coordenadas)
+    result = contador.most_common(3)
+    return [r[0] for r in result]
 
 
 def avistamiento_mas_reciente_por_coordenadas(

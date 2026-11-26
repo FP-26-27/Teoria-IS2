@@ -1,4 +1,4 @@
-from collections import namedtuple
+from collections import Counter, defaultdict, namedtuple
 from csv import reader
 from datetime import datetime, date, time, timedelta
 from statistics import mean
@@ -227,3 +227,43 @@ def codigos_por_destino(vuelos: list[Vuelo])->dict[str, list[str]]:
     for destino, lista_vuelos in agregador.items():
         transformado[destino] = [v.codigo for v in lista_vuelos]#editar
     return transformado  #editar
+
+# Ejercicio 31. destino_mas_vuelos: Dada una lista de tuplas de tipo 
+# Vuelo devuelve el destino con mayor número de vuelos.
+
+def destino_mas_vuelos(vuelos:list[Vuelo])->str:
+    diccionario = defaultdict(int)
+    for v in vuelos:
+        clave = v.destino
+        diccionario[clave] += 1
+
+    return max(diccionario.keys(), key = lambda destino: diccionario[destino])
+
+def destino_mas_vuelos_2(vuelos:list[Vuelo])->str:
+    destinos = [v.destino for v in vuelos]
+    counter = Counter(destinos)
+    return counter.most_common()[0][0]
+
+
+#Ejercicio 34. destino_mas_viajeros_por_mes: 
+# Dada una lista de tuplas de tipo Vuelo devuelve 
+# un diccionario en el que las claves sean los meses 
+# y como valor el destino con más viajeros de cada mes.
+
+def destino_mas_viajeros(vuelos:list[Vuelo])->str:
+    result = defaultdict(int)
+    for v in vuelos:
+        result[v.destino] += v.numero_pasajeros
+    #result["sevilla"] <-> result.get("sevilla")
+    return max(result, key = result.get) #lambda destino: result[destino])
+
+def destino_mas_viajeros_por_mes(vuelos:list[Vuelo])->dict[int, str]:
+    agregador = defaultdict(list)
+    for v in vuelos:
+        clave = v.fecha.month
+        agregador[clave].append(v)
+
+    transformador = dict()
+    for mes, lista_vuelos in agregador.items():
+        transformador[mes] = destino_mas_viajeros(lista_vuelos)
+    return transformador
