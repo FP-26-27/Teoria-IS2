@@ -1,0 +1,101 @@
+Distrito;Calle;Tipo_Iluminacion;Fecha_Encendido;Fecha_Apagado;Coste_Base;Elementos
+Casco Antiguo;Avenida de la Constitucion;LED_Dinamico;2024-11-28;2025-01-06;12500.5;Arco_Gigante-15-120.0*Estrella_Polar-5-45.5*Cortina_LED-20-200.0
+Casco Antiguo;Sierpes;LED;2024-11-29;2025-01-06;5400.0;Guirnalda-50-30.0*Figura_Reyes-3-150.0
+Triana;Calle San Jacinto;Proyeccion;2024-12-01;2025-01-06;8200.0;Proyector_Laser-4-500.0*Altavoz_Ambiental-8-25.0
+Triana;Puente de Triana;LED;2024-11-28;2025-01-07;15000.0;Arco_Triana-12-180.0*Estrella_Polar-10-45.5
+Nervion;Luis de Morales;LED_Dinamico;2024-12-05;2025-01-06;9000.0;Bola_Navideña-2-1000.0*Guirnalda-30-30.0
+Los Remedios;Asuncion;Guirnalda;2024-12-01;2025-01-06;4500.0;Guirnalda-100-15.0*Figura_Navidad-10-60.0
+Este-Alcosa-Torreblanca;Avenida de las Ciencias;LED;2024-12-10;2025-01-06;3200.0;Arco_Estandar-25-80.0*Estrella_Polar-5-45.5
+Macarena;Calle Feria;LED;2024-12-01;2025-01-06;2800.0;Guirnalda-40-30.0*Farolillo-15-40.0
+Casco Antiguo;Campana;Proyeccion;2024-11-28;2025-01-06;11000.0;Proyector_Laser-6-550.0*Caja_Musica-2-300.0
+Sur;Avenida de la Borbolla;LED;2024-12-05;2025-01-06;4200.0;Arco_Estandar-10-80.0*Estrella_Polar-5-45.5
+Bellavista;Avenida de Jerez;Guirnalda;2024-12-15;2025-01-06;2500.0;Guirnalda-60-20.0
+San Pablo-Santa Justa;Avenida de Kansas City;LED;2024-12-05;2025-01-06;7000.0;Arco_Gigante-8-120.0*Estrella_Polar-12-45.5
+Cerro-Amate;Avenida de los Gavilanes;LED;2024-12-10;2025-01-06;3100.0;Arco_Estandar-15-80.0
+Palmera-Bellavista;Avenida de la Palmera;LED_Dinamico;2024-11-28;2025-01-06;14000.0;Cortina_LED-40-200.0*Estrella_Polar-20-45.5
+Casco Antiguo;Calle Tetuan;LED;2024-11-28;2025-01-06;6000.0;Guirnalda-80-30.0*Arco_Estandar-5-80.0
+Triana;Calle Pages del Corro;Guirnalda;2024-12-01;2025-01-06;3800.0;Guirnalda-120-15.0
+Nervion;Eduardo Dato;LED;2024-12-05;2025-01-06;7500.0;Arco_Gigante-10-120.0*Estrella_Polar-10-45.5
+Los Remedios;Virgen de Lujan;LED;2024-12-01;2025-01-06;5200.0;Arco_Estandar-20-80.0
+Macarena;Avenida de la Cruz Roja;LED_Dinamico;2024-12-05;2025-01-06;6800.0;Bola_Navideña-1-1000.0*Guirnalda-50-30.0
+San Pablo-Santa Justa;Calle Greco;Guirnalda;2024-12-10;2025-01-06;2200.0;Guirnalda-70-15.0
+Sur;Calle Felipe II;LED;2024-12-05;2025-01-06;4600.0;Arco_Estandar-12-80.0*Estrella_Polar-4-45.5
+Casco Antiguo;Plaza Nueva;Proyeccion;2024-11-28;2025-01-06;15000.0;Proyector_Laser-10-550.0*Caja_Musica-4-300.0
+Triana;Calle Esperanza de Triana;LED;2024-12-01;2025-01-06;4100.0;Arco_Estandar-10-80.0*Estrella_Polar-6-45.5
+Nervion;Marques de Pickman;LED;2024-12-05;2025-01-06;5300.0;Guirnalda-90-30.0*Arco_Estandar-8-80.0
+Este-Alcosa-Torreblanca;Avenida de Emilio Lemos;LED;2024-12-10;2025-01-06;3900.0;Arco_Estandar-18-80.0*Estrella_Polar-6-45.5
+Casco Antiguo;Calle Cuna;LED;2024-11-29;2025-01-06;3200.0;Guirnalda-60-30.0
+Macarena;Calle San Luis;LED;2024-12-01;2025-01-06;2900.0;Guirnalda-45-30.0
+Sur;Calle Almirante Lobo;LED_Dinamico;2024-11-28;2025-01-06;8500.0;Bola_Navideña-1-1000.0*Cortina_LED-15-200.0
+Los Remedios;Calle Juan Sebastian Elcano;LED;2024-12-01;2025-01-06;4800.0;Arco_Estandar-14-80.0
+Cerro-Amate;Calle Afan de Ribera;Guirnalda;2024-12-10;2025-01-06;2100.0;Guirnalda-80-15.0
+Bellavista;Calle Guadalajara;LED;2024-12-15;2025-01-06;1800.0;Arco_Estandar-6-80.0
+San Pablo-Santa Justa;Calle Sinai;LED;2024-12-05;2025-01-06;3400.0;Arco_Estandar-10-80.0
+Casco Antiguo;Paseo de Colon;LED_Dinamico;2024-11-28;2025-01-06;18000.0;Arco_Gigante-25-120.0*Cortina_LED-30-200.0
+Triana;Calle Pureza;LED;2024-12-01;2025-01-06;3600.0;Estrella_Polar-15-45.5*Figura_Navidad-5-60.0
+Nervion;Calle Ramon y Cajal;LED;2024-12-05;2025-01-06;6200.0;Arco_Gigante-12-120.0
+Los Remedios;Calle Republica Argentina;LED_Dinamico;2024-12-01;2025-01-06;11000.0;Bola_Navideña-3-1000.0*Cortina_LED-10-200.0
+Este-Alcosa-Torreblanca;Calle ldefonso Marañon Lavin;Guirnalda;2024-12-10;2025-01-06;2400.0;Guirnalda-90-15.0
+Macarena;Calle Doctor Fedriani;LED;2024-12-01;2025-01-06;4300.0;Arco_Estandar-15-80.0
+Casco Antiguo;Calle Puente y Pellon;LED;2024-11-29;2025-01-06;2800.0;Guirnalda-50-30.0
+Sur;Calle Diego de la Barrera;LED;2024-12-05;2025-01-06;1900.0;Arco_Estandar-5-80.0
+Cerro-Amate;Calle Amor;LED;2024-12-10;2025-01-06;2200.0;Arco_Estandar-8-80.0
+Bellavista;Calle Asencio y Toledo;Guirnalda;2024-12-15;2025-01-06;1500.0;Guirnalda-40-15.0
+San Pablo-Santa Justa;Calle Tharsis;LED;2024-12-05;2025-01-06;2700.0;Arco_Estandar-8-80.0
+Casco Antiguo;Calle O Donnell;LED;2024-11-28;2025-01-06;4500.0;Guirnalda-70-30.0*Figura_Reyes-2-150.0
+Triana;Calle Betis;LED_Dinamico;2024-11-28;2025-01-07;9500.0;Cortina_LED-25-200.0*Estrella_Polar-12-45.5
+Nervion;Calle Benito Mas y Prat;LED;2024-12-05;2025-01-06;3800.0;Arco_Estandar-12-80.0
+Los Remedios;Calle Santa Fe;LED;2024-12-01;2025-01-06;3300.0;Arco_Estandar-10-80.0
+Este-Alcosa-Torreblanca;Avenida de Chiva;Guirnalda;2024-12-10;2025-01-06;1900.0;Guirnalda-75-15.0
+Macarena;Calle Leon XIII;LED;2024-12-01;2025-01-06;3400.0;Arco_Estandar-12-80.0
+Sur;Avenida de Roma;LED_Dinamico;2024-11-28;2025-01-06;7200.0;Arco_Gigante-10-120.0*Estrella_Polar-8-45.5
+Casco Antiguo;Calle Francos;LED;2024-11-29;2025-01-06;2900.0;Guirnalda-55-30.0
+Triana;Calle Rodrigo de Triana;Guirnalda;2024-12-01;2025-01-06;2100.0;Guirnalda-85-15.0
+Nervion;Calle Camilo Jose Cela;LED;2024-12-05;2025-01-06;4100.0;Arco_Estandar-14-80.0
+Los Remedios;Calle Niebla;LED;2024-12-01;2025-01-06;2800.0;Arco_Estandar-9-80.0
+Macarena;Calle Jose Diaz;LED;2024-12-01;2025-01-06;2600.0;Guirnalda-45-30.0
+San Pablo-Santa Justa;Calle Efeso;LED;2024-12-05;2025-01-06;3100.0;Arco_Estandar-10-80.0
+Casco Antiguo;Calle Trajano;LED;2024-11-28;2025-01-06;4200.0;Arco_Estandar-15-80.0*Estrella_Polar-5-45.5
+Triana;Calle Pelay Correa;Guirnalda;2024-12-01;2025-01-06;1800.0;Guirnalda-70-15.0
+Nervion;Calle San Francisco Javier;LED_Dinamico;2024-12-05;2025-01-06;13000.0;Cortina_LED-35-200.0*Bola_Navideña-2-1000.0
+Los Remedios;Calle Monte Carmelo;LED;2024-12-01;2025-01-06;3500.0;Arco_Estandar-12-80.0
+Este-Alcosa-Torreblanca;Calle Japon;LED;2024-12-10;2025-01-06;3200.0;Arco_Estandar-12-80.0
+Macarena;Calle Resolana;LED;2024-12-01;2025-01-06;4800.0;Arco_Gigante-8-120.0*Guirnalda-40-30.0
+Casco Antiguo;Calle Baños;LED;2024-11-29;2025-01-06;2400.0;Guirnalda-45-30.0
+Sur;Calle Bueno Monreal;LED;2024-12-05;2025-01-06;3900.0;Arco_Estandar-13-80.0
+Cerro-Amate;Calle Paulo Orosio;Guirnalda;2024-12-10;2025-01-06;1700.0;Guirnalda-65-15.0
+Bellavista;Calle Meson de Teruel;LED;2024-12-15;2025-01-06;1400.0;Arco_Estandar-4-80.0
+San Pablo-Santa Justa;Calle Tesalonica;LED;2024-12-05;2025-01-06;2900.0;Arco_Estandar-9-80.0
+Casco Antiguo;Calle Arjona;LED;2024-11-28;2025-01-06;5500.0;Arco_Gigante-10-120.0
+Triana;Calle Alfareria;LED;2024-12-01;2025-01-06;3100.0;Guirnalda-60-30.0
+Nervion;Calle Enramadilla;LED_Dinamico;2024-12-05;2025-01-06;7800.0;Arco_Gigante-8-120.0*Estrella_Polar-6-45.5
+Los Remedios;Calle Arcos;LED;2024-12-01;2025-01-06;2600.0;Arco_Estandar-8-80.0
+Este-Alcosa-Torreblanca;Calle Ciudad de Chiva;Guirnalda;2024-12-10;2025-01-06;1800.0;Guirnalda-70-15.0
+Macarena;Calle Muro de los Navarros;LED;2024-12-01;2025-01-06;3000.0;Guirnalda-55-30.0
+Casco Antiguo;Calle San Eloy;LED;2024-11-29;2025-01-06;3100.0;Guirnalda-60-30.0
+Sur;Calle Tio de la Tiza;LED;2024-12-05;2025-01-06;1600.0;Arco_Estandar-4-80.0
+Cerro-Amate;Calle Puerto del Escudo;Guirnalda;2024-12-10;2025-01-06;1550.0;Guirnalda-60-15.0
+Bellavista;Calle Laguna de Maestre;LED;2024-12-15;2025-01-06;1300.0;Arco_Estandar-3-80.0
+San Pablo-Santa Justa;Calle Jerusalem;LED;2024-12-05;2025-01-06;2800.0;Arco_Estandar-8-80.0
+Casco Antiguo;Calle Laraña;Proyeccion;2024-11-28;2025-01-06;9800.0;Proyector_Laser-5-550.0*Altavoz_Ambiental-10-25.0
+Triana;Calle Castilla;LED;2024-12-01;2025-01-06;4200.0;Arco_Estandar-15-80.0*Estrella_Polar-4-45.5
+Nervion;Calle Beatriz de Suabia;LED;2024-12-05;2025-01-06;4900.0;Arco_Estandar-16-80.0
+Los Remedios;Calle Virgen del Valle;LED;2024-12-01;2025-01-06;3200.0;Arco_Estandar-10-80.0
+Este-Alcosa-Torreblanca;Calle Carlinga;Guirnalda;2024-12-10;2025-01-06;1750.0;Guirnalda-65-15.0
+Macarena;Calle Parlamento de Andalucia;LED_Dinamico;2024-12-05;2025-01-06;8900.0;Arco_Gigante-12-120.0*Cortina_LED-10-200.0
+Casco Antiguo;Calle Adriano;LED;2024-11-29;2025-01-06;3500.0;Guirnalda-70-30.0
+Sur;Calle Progreso;LED;2024-12-05;2025-01-06;3400.0;Arco_Estandar-11-80.0
+Cerro-Amate;Calle Clementinas;Guirnalda;2024-12-10;2025-01-06;1650.0;Guirnalda-60-15.0
+Bellavista;Calle Ambrosio de la Cuesta;LED;2024-12-15;2025-01-06;1550.0;Arco_Estandar-5-80.0
+San Pablo-Santa Justa;Calle Tarso;LED;2024-12-05;2025-01-06;2600.0;Arco_Estandar-8-80.0
+Casco Antiguo;Calle Reyes Catolicos;LED_Dinamico;2024-11-28;2025-01-06;12000.0;Arco_Gigante-15-120.0*Estrella_Polar-10-45.5
+Triana;Calle Condes de Bustillo;LED;2024-12-01;2025-01-06;2900.0;Guirnalda-55-30.0
+Nervion;Calle Goya;LED;2024-12-05;2025-01-06;3600.0;Arco_Estandar-12-80.0
+Los Remedios;Calle Virgen de la Antigua;LED;2024-12-01;2025-01-06;3000.0;Arco_Estandar-10-80.0
+Este-Alcosa-Torreblanca;Calle Taiwan;Guirnalda;2024-12-10;2025-01-06;1950.0;Guirnalda-75-15.0
+Macarena;Calle Sor Francisca Dorotea;LED;2024-12-01;2025-01-06;2750.0;Guirnalda-50-30.0
+Sur;Calle Porvenir;LED;2024-12-05;2025-01-06;3800.0;Arco_Estandar-13-80.0
+Cerro-Amate;Calle Estornino;Guirnalda;2024-12-10;2025-01-06;1400.0;Guirnalda-55-15.0
+Bellavista;Calle Esmeralda;LED;2024-12-15;2025-01-06;1250.0;Arco_Estandar-3-80.0
+San Pablo-Santa Justa;Calle Jose Maria de Pereda;LED;2024-12-05;2025-01-06;2950.0;Arco_Estandar-9-80.0
+Casco Antiguo;Alameda de Hercules;LED_Dinamico;2024-11-28;2025-01-06;13500.0;Bola_Navideña-4-1000.0*Guirnalda-100-30.0
